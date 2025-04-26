@@ -27,4 +27,4 @@ Desenvolvimento de uma página responsiva com base no layout disponibilizado no 
 
 3. Abra o arquivo `index.html` em seu navegador.
 
-Desenvolvido com 💙 por [Diego Araújo].
+Desenvolvido com 💙 por Diego Araújo.
