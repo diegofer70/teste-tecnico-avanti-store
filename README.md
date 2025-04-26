@@ -20,11 +20,11 @@ Desenvolvimento de uma página responsiva com base no layout disponibilizado no 
     git clone https://github.com/diegofer70/teste-tecnico-avanti-store
 ```
 
-1. Acesse o direito do projeto:
+2. Acesse o direito do projeto:
 ```bash
     cd nome-do-projeto
 ```
 
-2. Abra o arquivo `index.html` em seu navegador.
+3. Abra o arquivo `index.html` em seu navegador.
 
 Desenvolvido com 💙 por [Diego Araújo].
