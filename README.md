@@ -14,12 +14,10 @@ Desenvolvimento de uma página responsiva com base no layout disponibilizado no 
 - Carrosséis interativos.
 
 ## 📋 Instruções para rodar o projeto
+
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/diegofer70/teste-tecnico-avanti-store
 ```
-2. Navegar até o direito do projeto:
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-```
+
 2. Abra o arquivo index.html em seu navegador.
